@@ -1,0 +1,10 @@
+# Program to accept and display integer, float, and string values.
+num1=int(input("Enter Integer Value:"))
+print(num1)
+print(type(num1))
+num2=float(input("Enter Float Value:"))
+print(num2)
+print(type(num2))
+num3=(input("Enter String Value:"))
+print(num3)
+print(type(num3))
